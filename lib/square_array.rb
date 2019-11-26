@@ -1,4 +1,3 @@
-require 'pry'
 def square_array(array)
 <<<<<<< HEAD
 new_array = []
